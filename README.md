@@ -49,7 +49,7 @@ The individual commands are selected and executed via a simple console menu.
 You also can use the Slash Commands in Discord.
 
 ---
-
+ 
 ## Requirements
 
 To run the bot successfully, the following programs must be installed:
